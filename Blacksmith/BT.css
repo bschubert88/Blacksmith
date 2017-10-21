@@ -1,0 +1,177 @@
+body
+	{ 
+	 background-color: #ccffff;
+	 color: #000000;
+	 line-height: 1.5em;
+	 font-family: Verdana, Ariel, Sans-serif;
+	 background-image: url(images/background1.jpg);
+	}
+	 
+h1     
+	{
+	background-color: #000033;
+	color: #FFFFFF;
+	line-height: 200%;
+	font-family: Georgia, serif;
+	margin-bottom: 0;
+	padding-left: 20px;
+	height: 72px;
+	
+	}
+	
+h2
+	{
+	color: #0033cc;
+	font-family: Georgia, serif;
+	}	
+	
+h3
+	{
+	color: #000033;
+	}
+	
+#content
+	{ 
+	padding-left: 20px;
+	padding-right: 20px;
+	background-color: #99ffff;
+	margin-left: 160px;
+	padding-top: 1px;
+	background-image: url(images/body.jpg);
+	background-repeat: no-repeat;
+	
+	background-size: cover;
+	}
+	
+#content ul
+	{
+	list-style-position: inside;
+	line-height: 2em;
+	}
+
+#content img
+	{
+	float: left;
+	padding-right: 20px;
+	
+	}
+
+#nav
+	{ 
+	float: left;
+	width: 160px;
+	padding: 20px 5px 5px 20px;
+	font-weight: bold;
+	padding: 5px;
+	}
+	
+#nav li
+	{
+	padding-bottom:20px;
+	}
+	
+dt	
+	{
+	color: #000033;
+	padding-bottom: 15px;
+	}
+
+.fancyname
+	{
+	color: #0099ff;
+	font-size: 1.2em;
+	}
+	
+#footer
+	{
+	font-size: .70em;
+	font-style: italic;
+	text-align: center;
+	padding: 10px
+	}
+	
+#wrapper
+	{
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;	
+	background-color: #000033;
+	min-width: 960px;
+	box-shadow: 15px 15px 15px;
+	
+	
+	
+	
+	}
+	
+#nav a
+	{
+	text-decoration: none;
+	
+	}
+
+#nav a:link
+	{
+	color: #00ffff;
+	}
+	
+#nav a:visited
+	{
+	color: #9900cc;
+	}
+	
+#nav a:hover
+	{
+	color: #ffffff
+	}
+	
+#nav ul
+	{
+	list-style-type: none;
+	margin: 0;
+	padding-left: 0;
+	}
+	
+.clear
+	{
+	clear: both;
+	padding-top: 10px;
+	}
+	
+.text
+	{
+	text-align: left;
+	}
+	
+label
+	{
+	float: left;
+	width: 125px;
+	display: block;
+	clear: right;
+	text-align: left;
+	padding-right: 10px;
+	margin-top: 10px;
+	}
+	
+input, textarea
+	{
+	position: relative;
+	top: 10px;
+	display: block;
+	}
+#mySubmit
+	{
+	margin-left: 130px;
+	}
+	
+	
+#facebook
+	{
+	position: relative;
+	left: 350px;
+	bottom: 600px;
+	}
+	
+	
+	
